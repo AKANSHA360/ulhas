@@ -1,0 +1,65 @@
+.first-line{
+	font-size: 1.5rem;
+}
+.map{
+	font-size: 1rem;
+}
+.first-para{
+	font-size: 1.5rem;
+}
+.uses{
+	font-size: 1.5rem;
+}
+.effects-1{
+	font-size: 1.5rem;
+}
+.ganga{
+	font-size: 1.5rem;
+}
+.yamuna{
+	font-size: 1.5rem;
+}
+.yamuna1{
+	font-size: 1.5rem;
+}
+.industry{
+	font-size: 1.5rem;
+}
+.ulhas{
+	font-size: 1.5rem
+}
+.ulhas-2{
+	font-size: 1.5rem;
+}
+.measures{
+	font-size: 1.5rem;
+}
+.measures-1{
+	font-size: 1.5rem;
+}
+.Yamuna-cleanliness-drive{
+	font-size: 1.5rem;
+}
+.prevention{
+	font-size: 1.5rem;
+}
+.prevention-1{
+	font-size: 1.5rem;
+}
+.menu{
+	background: #3b7687;
+	padding: 6px 0 6px 40px;
+}
+.menu a{
+	color: #c5d6db;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: "Arial Narrow" ,"Myriad Pro";
+}
+.menu a:hover{
+	color: #ecf2f3;
+}
+.seperator{
+	color: #FFFFFF;
+	font-size: 11px;
+}
